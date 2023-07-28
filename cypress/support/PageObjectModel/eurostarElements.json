@@ -1,0 +1,24 @@
+{
+    "eurostarLocaters": {
+        "AcceptAll": "button#consent_prompt_accept_all_cookies.button",
+        "TrainsTab": "li[data-testid='trains'] > a",
+        "Return": "[data-testid='button-journey-type']",
+        "FromFiled": "input#from",
+        "ToFiled": "input#to",
+        "SelectStation": "div[role='listbox'] .kZMcnI",
+        "WhenFiled": "input#calendar",
+        "CalendarDate": "[data-testid='month-days'] time",
+        "PassengersFiled": "input#passenger",
+        "AdultPlusIcon": "[data-testid='passenger-selector-Adult'] [data-testid='increase-bt'] > img",
+        "Serach": ".czTclw",
+        "SearchOrigin": "[data-testid='search-origin']",
+        "SearchDestination": "[data-testid='search-destination']",
+        "DateRange": "[data-testid='search-date-range']",
+        "OutboundPrice": "[data-testid='outbound-journey-search-results'] [data-testid='journey-price-amount']",
+        "InboundPrice": "[data-testid='inbound-journey-search-results'] [data-testid='journey-price-amount']",
+        "SelectOutBound": "[data-testid='outbound-journey-search-results'] .gVVuIz",
+        "SelectInBound": "[data-testid='inbound-journey-search-results'] .gVVuIz",
+        "Continue": "[name='continueButton']",
+        "CheckOutAsGuest": "[data-testid='continue-as-guest'] .egvkga"
+    }
+}
